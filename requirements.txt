@@ -1,0 +1,4 @@
+paho-mqtt==1.4.0
+requests==2.22.0
+pygame==2.0.0.dev8
+pyserial==3.4
