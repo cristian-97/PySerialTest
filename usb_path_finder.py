@@ -8,11 +8,11 @@ import errno
 #u2d2_usb_base_path = '/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1/1-1.1.3/1-1.1.3:1.0/ttyUSB'
 
 # il valore vicino le porte indica il parametro da passare a usb_path_finder
-#  |-------------------------------------|
+#  |-----------------------------------------|
 #  ||----   ----|[1.2] Phaser2 | [1.4] rfid||
-#  || ethernet  |------------------------|
+#  || ethernet  |----------------------------|
 #  ||           |[1.1] Phaser1 |[1.3] Target||
-#  |-------------------------------------|
+#  |-----------------------------------------|
 #
 
 
